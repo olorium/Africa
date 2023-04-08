@@ -7,7 +7,10 @@
 
 import Foundation
 
+/// A model describes cover image.
 struct CoverImage: Codable, Identifiable {
+	/// Id of the image
 	let id: Int
+	/// The name of the image
 	let name: String
 }
