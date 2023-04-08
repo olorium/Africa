@@ -46,6 +46,7 @@
 		8B86A92429E1DDAF00A8B273 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B86A92329E1DDAF00A8B273 /* VideoPlayerHelper.swift */; };
 		8B86A92629E1E18600A8B273 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B86A92529E1E18600A8B273 /* LocationModel.swift */; };
 		8B86A92829E1E99A00A8B273 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B86A92729E1E99A00A8B273 /* MapAnnotationView.swift */; };
+		8B86A92F29E1F15200A8B273 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B86A92E29E1F15200A8B273 /* MotionAnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +91,7 @@
 		8B86A92329E1DDAF00A8B273 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		8B86A92529E1E18600A8B273 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		8B86A92729E1E99A00A8B273 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		8B86A92E29E1F15200A8B273 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +194,7 @@
 				8B86A92929E1F0B900A8B273 /* DetailsScreen */,
 				8B86A92B29E1F0EC00A8B273 /* VideoScreen */,
 				8B86A92C29E1F0F700A8B273 /* MapScreen */,
+				8B86A92D29E1F12600A8B273 /* GalleryScreen */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -260,6 +263,14 @@
 				8B86A92729E1E99A00A8B273 /* MapAnnotationView.swift */,
 			);
 			path = MapScreen;
+			sourceTree = "<group>";
+		};
+		8B86A92D29E1F12600A8B273 /* GalleryScreen */ = {
+			isa = PBXGroup;
+			children = (
+				8B86A92E29E1F15200A8B273 /* MotionAnimationView.swift */,
+			);
+			path = GalleryScreen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -367,6 +378,7 @@
 				8B86A8FC29E1878300A8B273 /* VideoListView.swift in Sources */,
 				8B86A91529E1AE7000A8B273 /* InsetGalleryView.swift in Sources */,
 				8B86A90029E187A300A8B273 /* GalleryView.swift in Sources */,
+				8B86A92F29E1F15200A8B273 /* MotionAnimationView.swift in Sources */,
 				8B86A91329E1AD2C00A8B273 /* HeadingView.swift in Sources */,
 				8B86A92129E1DCF400A8B273 /* VideoPlayerView.swift in Sources */,
 			);
