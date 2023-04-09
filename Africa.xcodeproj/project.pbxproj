@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B29368829E304B7006274A2 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B29368729E304B7006274A2 /* AnimalGridItemView.swift */; };
 		8B86A8CE29E1818600A8B273 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B86A8CD29E1818600A8B273 /* AfricaApp.swift */; };
 		8B86A8D029E1818600A8B273 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B86A8CF29E1818600A8B273 /* ContentView.swift */; };
 		8B86A8D229E1818700A8B273 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B86A8D129E1818700A8B273 /* Assets.xcassets */; };
@@ -50,6 +51,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B29368729E304B7006274A2 /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
 		8B86A8CA29E1818600A8B273 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B86A8CD29E1818600A8B273 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		8B86A8CF29E1818600A8B273 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -244,6 +246,7 @@
 			children = (
 				8B86A90429E1897600A8B273 /* CoverImageView.swift */,
 				8B86A90C29E1935A00A8B273 /* AnimalListItemView.swift */,
+				8B29368729E304B7006274A2 /* AnimalGridItemView.swift */,
 			);
 			path = MainScreen;
 			sourceTree = "<group>";
@@ -375,6 +378,7 @@
 				8B86A8CE29E1818600A8B273 /* AfricaApp.swift in Sources */,
 				8B86A91D29E1C03800A8B273 /* VideoModel.swift in Sources */,
 				8B86A92629E1E18600A8B273 /* LocationModel.swift in Sources */,
+				8B29368829E304B7006274A2 /* AnimalGridItemView.swift in Sources */,
 				8B86A8FC29E1878300A8B273 /* VideoListView.swift in Sources */,
 				8B86A91529E1AE7000A8B273 /* InsetGalleryView.swift in Sources */,
 				8B86A90029E187A300A8B273 /* GalleryView.swift in Sources */,

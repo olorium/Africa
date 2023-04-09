@@ -68,7 +68,7 @@ struct GalleryView: View {
 	
 	// MARK: - Methods
 	
-	/// Used to change the number of columns in a frid.
+	/// Used to change the number of columns in a grid.
 	private func gridSwitch() {
 		gridLayout = Array(repeating: .init(.flexible()), count: Int(gridColumn))
 	}
