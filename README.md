@@ -52,5 +52,5 @@
 
 <details>
 <summary>Mac Catalyst</summary>
-<img src="./Readme/catalyst.jpg" alt="drawing" width="375"/>
+<img src="./Readme/catalyst.jpg" alt="drawing" width="750"/>
 </details>
