@@ -44,3 +44,13 @@
 <img src="./Readme/gallery2.png" alt="drawing" width="375"/> 
 <img src="./Readme/gallery3.gif" alt="drawing" width="375"/>
 </details>
+
+<details>
+<summary>Stickers</summary>
+<img src="./Readme/stickers.png" alt="drawing" width="375"/>
+</details>
+
+<details>
+<summary>Mac Catalyst</summary>
+<img src="./Readme/catalyst.png" alt="drawing" width="375"/>
+</details>
