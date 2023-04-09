@@ -38,6 +38,7 @@ struct ContentView: View {
 								AnimalListItemView(animal: animal)
 							}
 						}
+						CreditsView().modifier(CenterModifier())
 					}
 					.listStyle(.plain)
 				} else {
