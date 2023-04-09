@@ -1,4 +1,4 @@
-#  iOS, iPad OS and Mac app with rich features
+#  iOS, iPad OS and Mac app
 
 ## Features:
 - iOS 14, SwiftUI
